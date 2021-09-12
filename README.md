@@ -1,4 +1,4 @@
-hi, im amgry, you can call me fridge
+hi, im amgry, you can call me fridge.
 i'm an indie game dev and work with
 my friends to make really dumb projects
 
